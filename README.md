@@ -1,2 +1,2 @@
 # cv1
-First ever cv website i've made using only HTML code.
+My First ever cv website i've made using only HTML code.
